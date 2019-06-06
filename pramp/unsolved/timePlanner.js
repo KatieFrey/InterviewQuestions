@@ -16,9 +16,9 @@
 //         dur = 8
 // output: [60, 68]
 
-// input:  slotsA = [[10, 50], [60, 120], [140, 210]]
-//         slotsB = [[0, 15], [60, 70]]
-//         dur = 12
+// input:  slotsA = [[10, 70], [100, 120], [140, 210]]
+//         slotsB = [[140, 215], [360, 770]]
+//         dur = 10
 // output: [] # since there is no common slot whose duration is 12
 // Constraints:
 
